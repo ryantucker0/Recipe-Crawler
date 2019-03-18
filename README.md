@@ -20,3 +20,8 @@ It's been a busy few months! I actually forgot all about this idea. In the past 
 First, I'd like to learn the MEAN stack. At first, I'll start with this tutorial:https://medium.com/netscape/mean-app-tutorial-with-angular-4-part-1-18691663ea96 to learn the ropes. Will put it in the directory "learnMEAN."
 
 Today, I set up the environment. I left off at *"Database"* in the article.
+
+**3/18/19**
+After some more digging into the article, I think I need a better high-level view of the MEAN stack. There's too much do x without much explaining so I'm getting lost with what I'm actually doing. Instead, I think I will try this: http://www.bradoncode.com/tutorials/mean-stack-tutorial-part-1-setup/.
+
+
