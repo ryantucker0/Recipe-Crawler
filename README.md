@@ -24,4 +24,5 @@ Today, I set up the environment. I left off at *"Database"* in the article.
 **3/18/19**
 After some more digging into the article, I think I need a better high-level view of the MEAN stack. There's too much do x without much explaining so I'm getting lost with what I'm actually doing. Instead, I think I will try this: http://www.bradoncode.com/tutorials/mean-stack-tutorial-part-1-setup/.
 
-
+**3/22/19**
+Actually, I think I need a general programming refresh first. I'm pretty rusty. Going to start with making some simple apps (I have a few fun ideas) that will be on rtucker.me . Will come back to this idea once I feel like I can tackle it.
